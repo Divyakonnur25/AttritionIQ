@@ -132,8 +132,11 @@ This analysis can help HR teams:
 **Divya Konnur**
 Data Analyst | SQL · Python · Power BI · Excel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/divyakonnur](https://www.linkedin.com/in/divya-konnur-4982a3345?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)]([https://github.com/Divyakonnur25](https://github.com/Divyakonnur25))
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Divyakonnur25-181717?logo=github&logoColor=white)](https://github.com/Divyakonnur25)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divya%20Konnur-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-konnur-4982a3345)
 
 ---
 
